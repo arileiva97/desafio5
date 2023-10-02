@@ -1,0 +1,97 @@
+[
+	{
+		"id": 1,
+		"title": "Shorts negros",
+		"description": "Talle M - L - XL",
+		"code": "abc123",
+		"price": 7000,
+		"status": true,
+		"stock": 45,
+		"category": "1",
+		"thumbnail": ""
+	},
+	{
+		"id": 5,
+		"title": "Shorts rojos",
+		"description": "Talle M - L - XL",
+		"code": "abc127",
+		"price": 7000,
+		"status": true,
+		"stock": 45,
+		"category": "1",
+		"thumbnail": ""
+	},
+	{
+		"id": 7,
+		"title": "Shorts negros22",
+		"description": "Talle M - L - XL",
+		"code": "abc129",
+		"price": 7000,
+		"status": true,
+		"stock": 45,
+		"category": "1",
+		"thumbnail": ""
+	},
+	{
+		"id": 8,
+		"title": "Shorts negros34",
+		"description": "Talle M - L - XL",
+		"code": "abc130",
+		"price": 7000,
+		"status": true,
+		"stock": 45,
+		"category": "1",
+		"thumbnail": ""
+	},
+	{
+		"id": 9,
+		"title": "Shorts negros45",
+		"description": "Talle M - L - XL",
+		"code": "abc131",
+		"price": 7000,
+		"status": true,
+		"stock": 45,
+		"category": "1",
+		"thumbnail": ""
+	},
+	{
+		"id": 10,
+		"title": "Shorts negros50",
+		"description": "Talle M - L - XL",
+		"code": "abc132",
+		"price": 7000,
+		"status": true,
+		"stock": 45,
+		"category": "1",
+		"thumbnail": ""
+	},
+	{
+		"id": 11,
+		"title": "Shorts negros55",
+		"code": "abc133",
+		"price": 7000,
+		"status": true,
+		"stock": 45,
+		"category": "1",
+		"thumbnail": ""
+	},
+	{
+		"id": 12,
+		"title": "Shorts negros51",
+		"code": "abc134",
+		"price": 7000,
+		"status": true,
+		"category": "1",
+		"thumbnail": ""
+	},
+	{
+		"id": 13,
+		"title": "Shorts negros57",
+		"description": "Talle M - L - XL",
+		"code": "abc135",
+		"price": 7000,
+		"status": true,
+		"category": "1",
+		"thumbnail": ""
+	}
+]
